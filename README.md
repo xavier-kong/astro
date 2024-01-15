@@ -1,4 +1,4 @@
-https://docs.astro.build/en/tutorial/2-pages/1/
+https://docs.astro.build/en/tutorial/2-pages/3/
 
 
 
