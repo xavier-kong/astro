@@ -1,4 +1,4 @@
-https://docs.astro.build/en/tutorial/3-components
+https://docs.astro.build/en/tutorial/3-components/2
 
 
 
