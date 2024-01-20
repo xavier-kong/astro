@@ -3,6 +3,7 @@
 import '../styles/global.css';
 import Navigation from '../components/Navigation.astro';
 const pageTitle = "Home Page";
+import Footer from '../components/Footer.astro';
 ---
 
 <html lang="en">
@@ -14,8 +15,9 @@ const pageTitle = "Home Page";
 		<title>{pageTitle}</title>
 	</head>
 	<body>
-		<h1>{pageTitle}</h1>
 		<Navigation />
+		<h1>{pageTitle}</h1>
+		<Footer />
 
 	</body>
 </html>
