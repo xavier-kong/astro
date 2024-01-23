@@ -1,7 +1,4 @@
-https://docs.astro.build/en/tutorial/4-layouts
-
-
-
+https://docs.astro.build/en/tutorial/4-layouts/1/#pass-page-specific-values-as-props
 
 
 
