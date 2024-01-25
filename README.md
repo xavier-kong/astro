@@ -1,4 +1,4 @@
-https://docs.astro.build/en/tutorial/4-layouts/2/
+https://docs.astro.build/en/tutorial/4-layouts/2/#try-it-yourself---customize-your-blog-post-layout
 
 
 
