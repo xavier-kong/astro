@@ -9,8 +9,6 @@ image:
 tags: ["astro", "blogging", "learning in public"]
 layout: ../../layouts/MarkdownPostLayout.astro
 ---
-# My First Blog Post
-
 Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
 
 ## What I've accomplished
