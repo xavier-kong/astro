@@ -1,4 +1,4 @@
-https://docs.astro.build/en/tutorial/5-astro-api/1/
+https://docs.astro.build/en/tutorial/5-astro-api/1/#challenge-create-a-blogpost-component
 
 
 
