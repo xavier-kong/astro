@@ -1,4 +1,4 @@
-https://docs.astro.build/en/tutorial/5-astro-api/2/
+https://docs.astro.build/en/tutorial/5-astro-api/2/#advanced-javascript-generate-pages-from-existing-tags
 
 
 
