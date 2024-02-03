@@ -1,4 +1,4 @@
-https://docs.astro.build/en/tutorial/5-astro-api/3/
+https://docs.astro.build/en/tutorial/5-astro-api/3/#add-styles-to-your-tag-list
 
 
 
